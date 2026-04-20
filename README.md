@@ -17,4 +17,4 @@ Open in browser: http://127.0.0.1:5000/
 Note
 The trained model file (airquality.joblib) is not uploaded to GitHub because it exceeds GitHub's 100MB file size limit.
 
-To generate the model file, run: python retrain_model.py
+To generate the model file, run: python retrain_model.py.
