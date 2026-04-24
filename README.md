@@ -7,7 +7,7 @@ Flask
 Pandas
 Scikit-learn
 Joblib
-How to Run the Project:--
+How to Run the Project:-
 Install required packages: pip install -r requirements.txt
 
 Run the application: python app.py
