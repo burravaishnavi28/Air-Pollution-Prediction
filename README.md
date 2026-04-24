@@ -1,7 +1,7 @@
 Air Quality Index (AQI) Prediction
 This project is a Machine Learning based web application that predicts Air Quality Index (AQI) using historical air pollution data.
 
-Technologies Used:---
+Technologies Used:--
 Python
 Flask
 Pandas
