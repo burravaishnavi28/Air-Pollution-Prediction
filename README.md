@@ -1,13 +1,13 @@
 Air Quality Index (AQI) Prediction
 This project is a Machine Learning based web application that predicts Air Quality Index (AQI) using historical air pollution data.
 
-Technologies Used:--
+Technologies Used:---
 Python
 Flask
 Pandas
 Scikit-learn
 Joblib
-How to Run the Project:--
+How to Run the Project:---
 Install required packages: pip install -r requirements.txt
 
 Run the application: python app.py
